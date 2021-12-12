@@ -1,0 +1,58 @@
+/* @FONT SF UI */
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/sf-ui/SFUIDisplay-Bold.woff2') format('woff2'),
+        url('../fonts/sf-ui/SFUIDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/sf-ui/SFUIDisplay-Semibold.woff2') format('woff2'),
+        url('../fonts/sf-ui/SFUIDisplay-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/sf-ui/SFUIDisplay-Light.woff2') format('woff2'),
+        url('../fonts/sf-ui/SFUIDisplay-Light.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* @FONT Segoe UI */
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../fonts/segoeui/SegoeUI.woff2') format('woff2'),
+        url('../fonts/segoeui/SegoeUI.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../fonts/segoeui/SegoeUI-Semibold.woff2') format('woff2'),
+        url('../fonts/segoeui/SegoeUI-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/* @FONT Helvetica */
+@font-face {
+    font-family: 'Helvetica LT Std';
+    src: url('fons/helvetica-lt-std-roman/HelveticaLTStd-Roman.woff2') format('woff2'),
+        url('fons/helvetica-lt-std-roman/HelveticaLTStd-Roman.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
