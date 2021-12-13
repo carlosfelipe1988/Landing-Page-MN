@@ -437,7 +437,7 @@ to {
 
 /* ###### PAGE GRACIAS###### */
 .bg-page-gracias{
-    background-image: url(src/img/bg-page-gracias.jpg);
+    background-image: url(../img/bg-page-gracias.jpg);
     height: 100vh;
     padding: 15px;
 }
