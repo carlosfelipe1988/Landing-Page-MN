@@ -1,2 +1,2 @@
-#Objetivos del respositorio
-Este proyecto es una prueba técnica.
+#Respositorio
+Maquetación de Landing Page.
